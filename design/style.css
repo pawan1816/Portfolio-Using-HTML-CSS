@@ -1,0 +1,189 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:0;
+    background-size:cover;
+    background-color:rgb(240, 233, 233);
+}
+.row{
+    height:100px;
+}
+.row.first{
+   margin-top:0;
+   height: 12%;
+   width: 100%;
+   position: fixed;
+   background-color: black;
+}
+.col-6.first.left img{
+    height:100px;
+    width:250px;
+}
+.col-6.first.right{
+    padding-top:25px;
+    padding-left: 40px;
+}
+.col-6.first.right a{
+    text-decoration: none;
+    background-color: rgb(195, 195, 236);
+    margin: 6px;
+    color:black;
+    padding:4px;
+    border-radius: 15px;
+}
+.col-6.first.right a:link {
+    color: green;
+    background-color: aliceblue;
+}
+
+/* visited link */
+.col-6.first.right a:visited {
+color: green;
+background-color: white;
+}
+
+/* mouse over link */
+.col-6.first.right a:hover {
+color: red;
+background-color: bisque;
+}
+
+/* selected link */
+.col-6.first.right a:active {
+color: yellow;
+background-color: blueviolet;
+} 
+.index.blank{
+    height: 30vh;
+    width: 100%;
+}
+.row.second{
+    height:130vh;
+}
+.col-6.second.left{
+    height: 100vh;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+#intro{
+ font-size: 60px;
+ font-weight:400;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#name{
+ font-size: 50px;
+ font-weight:300;
+ font-family: sans-serif;
+}
+#aboutme{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#moreabout{
+    font-size: 30px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-top: 50px;
+
+}
+.col-6.second.right{
+    height: 100vh;
+}
+.col-6.second.right img{
+    height: 80vh;  
+    box-shadow: 20px 30px #888888;
+}
+.row.third{
+    height:65vh;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+.col-7.third.left{
+  padding-top: 45px;
+  padding-left: 30px;
+}
+.col-5.third.right img{
+    box-shadow: 10px 15px #888888;
+    height:65vh;
+    width: 75vh;
+}
+#slogen{
+    font-size: xx-large;
+    font-family: serif;
+    font-weight:300;
+}
+#purshuing{
+    font-size: x-large;
+    font-weight: 200;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#addressandgoal{
+    padding-top: 30px;
+    font-size: larger;
+    font-weight: 100;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.row.forth{
+    height:90px;
+    margin-top: 40px;
+    padding-top: 25px;
+   /* background-color: black;*/
+}
+.col-4.forth.form button{
+    padding-top: 10px;
+}
+.col-2.forth.gmail {
+  padding-top: 10px;
+}
+.col-2.forth.facebook {
+   padding-top: 10px;
+}
+.col-2.forth.instagram {
+    padding-top: 10px;
+}
+.col-2.forth.linkedin {
+    padding-top: 10px;
+}
+.col-4.forth.form button{
+    text-decoration: none;
+    border:solid 1px black;
+    border-radius: 15px;
+    padding: 5px 25px;
+    color: rgb(240, 233, 233);
+   background-color:black;
+}
+.col-2.forth.gmail a{
+  text-decoration: none;
+  border:solid 1px black;
+  border-radius: 15px;
+  padding: 5px 35px;
+  color: rgb(240, 233, 233);
+  background-color:black;
+}
+.col-2.forth.facebook a{
+   text-decoration: none;
+  border:solid 1px black;
+  border-radius: 15px;
+  padding: 5px 19px;
+  color: rgb(240, 233, 233);
+  background-color:black;
+}
+.col-2.forth.instagram a{
+    text-decoration: none;
+   border:solid 1px black;
+   border-radius: 15px;
+   padding: 5px 20px;
+   color: rgb(240, 233, 233);
+   background-color:black;
+}
+.col-2.forth.linkedin a{
+    text-decoration: none;
+   border:solid 1px black;
+   border-radius: 15px;
+   padding: 5px 21px;
+   color: rgb(240, 233, 233);
+   background-color:black;
+}

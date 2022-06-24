@@ -1,0 +1,45 @@
+.education.blank{
+    width: 100%;
+    height: 30vh;
+}
+.row.secondfirst{
+   /* border: solid 1px black;*/
+   height: 100vh;
+}
+.row.firstarrow{
+   /* border:solid 1px black;*/
+    height:25vh;
+    padding-bottom: 20px;
+}
+.row.centre{
+  /*  border:solid 1px black;*/
+    height: 70vh;
+}
+.row.secondlast{
+    /*border:solid 1px black;*/
+    height: 70vh;
+}
+.marks{
+    background-color:rgb(240, 233, 233);
+}
+.pic{
+    background-color:rgb(240, 233, 233);
+}
+.collagename{
+    background-color:rgb(240, 233, 233);
+}
+.col-4.pic img{
+    height:53vh;
+    width:100%;
+}
+.col-4.arrow{
+    height:25vh;
+}
+.col-4.arrow img{
+    height:25vh;
+    background-color:rgb(240, 233, 233);
+}
+.col-4.collagename{
+    padding-left: 70px;
+    padding-top: 100px;
+}

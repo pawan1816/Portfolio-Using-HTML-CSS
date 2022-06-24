@@ -1,0 +1,51 @@
+.row.second{
+    height:90vh;
+    text-align: center;
+}
+.calculator{
+    height:65vh;
+    width:60vh;
+    background-color: red;
+    border:solid 1px black;
+    margin-left: 35%;
+}
+.row1{
+    height:10vh;
+    width:100%;
+    background-color: blueviolet;
+    border:solid 1px black;
+}
+.col1{
+    height: 100%;
+    width:25%;
+    border:solid 1px black;
+    background-color:bisque;
+    display:inline;
+    font-size: xx-large;
+}
+#screen{
+    height:100%;
+    width:100%;
+    font-size: xx-large;
+}
+.row.third{
+    height: 60vh;
+    width: 102%;
+    text-align: center;
+}
+.dayteller{
+    height:50vh;
+    width: 70vh;
+    margin-left: 30%;
+    background-color: yellow;
+    border: solid 1px black;
+  
+}
+.dayteller label{
+    display: block;
+    margin-top: 6px;
+}
+.project.blank{
+    height:30vh;
+    width:100%;
+}

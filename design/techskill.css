@@ -1,0 +1,7 @@
+.skills{
+    display:inline-block;
+    height: 60vh;
+    width: 48%;
+    border:solid 1px black;
+    background-color: blue;
+}
